@@ -1,0 +1,6 @@
+selenium
+kafka-python
+requests
+opencv-python
+numpy
+Pillow
